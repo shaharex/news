@@ -1,0 +1,42 @@
+[
+  {
+    "model": "products.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "cloth",
+      "description": "to wear on"
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "trousers",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "shoes",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 4,
+    "fields": {
+      "name": "accesories",
+      "description": ""
+    }
+  },
+  {
+    "model": "products.productcategory",
+    "pk": 5,
+    "fields": {
+      "name": "gifts",
+      "description": ""
+    }
+  }
+]
